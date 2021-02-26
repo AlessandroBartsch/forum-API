@@ -12,7 +12,7 @@ public class TopicoDto {
 	private String titulo;
 	private String mensagem;
 	private LocalDateTime dataCriacao;
-	
+
 	public TopicoDto(Topico topico) {
 		super();
 		this.id = topico.getId();
@@ -20,16 +20,19 @@ public class TopicoDto {
 		this.mensagem = topico.getMensagem();
 		this.dataCriacao = topico.getDataCriacao();
 	}
-	
+
 	public Long getId() {
 		return id;
 	}
+
 	public String getTitulo() {
 		return titulo;
 	}
+
 	public String getMensagem() {
 		return mensagem;
 	}
+
 	public LocalDateTime getDataCriacao() {
 		return dataCriacao;
 	}
