@@ -18,5 +18,7 @@
 ### Tecnologias:
 #### Spring:
 * Spring Web;
+* Spring Boot;
 * Spring Data;
+* Spring Cache;
 * Spring DevTools;
