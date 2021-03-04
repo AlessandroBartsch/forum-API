@@ -21,4 +21,5 @@
 * Spring Boot;
 * Spring Data;
 * Spring Cache;
+* Spring Security;
 * Spring DevTools;
