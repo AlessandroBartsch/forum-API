@@ -35,11 +35,12 @@ public class Topico {
 		super();
 	}
 
-	public Topico(String titulo, String mensagem, Curso curso) {
+	public Topico(String titulo, String mensagem, Curso curso, Usuario usuario) { //aqui >, Usuario usuario<
 		super();
 		this.titulo = titulo;
 		this.mensagem = mensagem;
 		this.curso = curso;
+		this.autor = usuario; //aqui
 	}
 
 	@Override
