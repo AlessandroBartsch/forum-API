@@ -23,3 +23,4 @@
 * Spring Cache;
 * Spring Security;
 * Spring DevTools;
+* Spring Boot Actuator ("localhost:8080/actuator");
