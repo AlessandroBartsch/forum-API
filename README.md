@@ -24,3 +24,8 @@
 * Spring Security;
 * Spring DevTools;
 * Spring Boot Actuator ("localhost:8080/actuator");
+
+
+### EndPoints:
+#### Documentation with swagger on "http://localhost:8080/swagger-ui.html"
+![image](https://user-images.githubusercontent.com/49681821/110517161-40ede580-80e9-11eb-93f3-879d9b0defc9.png)
