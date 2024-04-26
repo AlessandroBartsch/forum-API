@@ -13,7 +13,7 @@
 * MySQL 8.0 Command Line Client (Para acesso ao Banco);
 
 ### Projeto:
-* Projeto maven - utilizando spring boot (Criado através do spring initializr);
+* Projeto java - utilizando spring boot (Criado através do spring initializr);
 
 ### Tecnologias:
 #### Spring:
